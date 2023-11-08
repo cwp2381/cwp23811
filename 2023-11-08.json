@@ -1,0 +1,26 @@
+{
+  "name": "James Riley",
+  "age": 37,
+  "address": {
+    "street": "Jowo Path",
+    "city": "Gazsudar",
+    "state": "SD",
+    "zip": "15009"
+  },
+  "contact": {
+    "phone": "(552) 484-2801",
+    "servicePhone": "800888447"
+  },
+  "birthday": "2005-02-15T07:07:01.852Z",
+  "ip": "176.51.91.68",
+  "foo": "bar",
+  "profile": {
+    "about": "Wuec vu wohku waazugi em ohojof gore sopitjo kuf oz midu wevzo. Vuziwnuc guhapu hiko co lorjibul kuidlen pa ru vi wejeh fu zosu conodot emo rekbew duhuuco. Obje oc zoskodtoc kufuke cimofwap evufe cisuw ba gagpus ru vomajoj uvso. Mubwam si jomroki wo mil wekkuruv bobo genmate gow atosu gune gi gib luza firepa zalvogi ma ibnonik.",
+    "bio": "Far seejo ararupo jev gezu zavatat co lu muvep dowtuju muwevkaj tugojge jabur wopcif. Ni ubitu polda muc cihna of nogme po famgavju joj doobemi liwejivi mulwojni zapof ma jemzu. Was izumoes fumcijgob ug tiw ecu vo va bobo gasi mem ipi. Wedduoru nikhik egajujsiw mac ha li mob voh iwro dakwucsu uvo uftipus ijakev. Dogic udisig bajmoju mo do gac zaczahba vun deseh ah dausaku gu ri hah ula pa. Alewuse zeasopu lezsum vuzboka tadota suh julosvo sese pobdu toozo levake sa cena. Setebas wepiiho borek so opesag hu ramid te te cu mizho ibdit ro ho giwit ced."
+  },
+  "apiKey": "2ed5ca910609df4b260060f61905433f18725e7cf0d3a3043ac2b5245dc2423a",
+  "currency": {
+    "code": "GYD",
+    "name": "Guyana Dollar"
+  }
+}
