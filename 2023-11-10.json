@@ -1,0 +1,26 @@
+{
+  "name": "Marcus Stevens",
+  "age": 26,
+  "address": {
+    "street": "Wirmi Boulevard",
+    "city": "Pokeeg",
+    "state": "IL",
+    "zip": "48179"
+  },
+  "contact": {
+    "phone": "(332) 384-2844",
+    "servicePhone": "800468656"
+  },
+  "birthday": "2003-10-18T11:14:38.817Z",
+  "ip": "39.44.132.49",
+  "foo": "bar",
+  "profile": {
+    "about": "Puad guebu aw ufilum hup ep niwsoc uletinun jekar vik bulceh wi toni cojfizu musu wavudsa. Ucale rihopjaj gol anjeja vighi esovo ojvonsa sog labektuz buvanla pah vej parpuzur zarpiw honim daj cabmi. Inene ug takukmom an pihamoaw fa ibo nimagin veffi mo ne femenhi ru os puh dob egunisew.",
+    "bio": "Hu ponenuk ridad bobogoj ikibino hetoncar sugjef per koca ru fodo buc rubcun jafkidruc. Raideuf wo mawuzah zesfewif jit gej uj jeuvhuc edfa pavuwzu sejzolfot waz. Pamfuecu tecbovwoj akelut satab pagmor voz rov eriupina fo ikjo pip po fek."
+  },
+  "apiKey": "d0beea8748156fe3b157275930b38b6fd0c8835279571dd32d97d0d0e70d2954",
+  "currency": {
+    "code": "DJF",
+    "name": "Djibouti Franc"
+  }
+}
