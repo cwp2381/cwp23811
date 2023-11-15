@@ -1,0 +1,26 @@
+{
+  "name": "Mike Allen",
+  "age": 19,
+  "address": {
+    "street": "Gekat Loop",
+    "city": "Nosuta",
+    "state": "WI",
+    "zip": "26887"
+  },
+  "contact": {
+    "phone": "(977) 556-8592",
+    "servicePhone": "800529926"
+  },
+  "birthday": "1973-10-29T21:25:12.259Z",
+  "ip": "80.180.215.9",
+  "foo": "bar",
+  "profile": {
+    "about": "Cisu totba tekog udeminrer piha tat ri bat jak col ruec liza pewpife debirlo sumec. Pu tofifnit joesoonu ducsej mer veczon bojoc jumizhor zelupvi liz ho no ca ta cabvaw nu. Fig sop igizi ep de domummoz fim jacsibis obdefmen fewes tuh gen bikcol osocat ridozoba fo ra ki. Ri tebgohvu kohlu faf tigwu rum cigolitiv pubuziri ucfe mowaw oclohfeh tak. Nocvev dicajvil fek homuhuv tanolag iwvebu nuknej cifubcuk hivum wijcekjod bahugce omseeg colu daznu jevera furkunev nonot. Hultu wurug gifmu mij zebin gujijom me ve fojjal uvdir emli buggu zogdotmuz sis ebabuiz sil wevood huor. Redep par virijobab mib wolrud gi dola wama babdaje avous ariruj baatuel ri.",
+    "bio": "It er hucte iw woskufe wed zuvjek sehug mipta cimusfow go ta jumkusike. Firubo rir holopuah ejzikpi etejodi tov ili id ogemuwzin fotpas jabwacfu uco. Ji ansu bej rev tecuug go resuwi liwo ohega pobpewik va haokeos ratop la cuizu koddase lo."
+  },
+  "apiKey": "5001f5baa6e785c59cb9a255f31d405dee34f67d842eeb06487895baf69ba50f",
+  "currency": {
+    "code": "SVC",
+    "name": "El Salvador Colon"
+  }
+}
