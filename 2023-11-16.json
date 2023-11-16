@@ -1,0 +1,26 @@
+{
+  "name": "Aiden Spencer",
+  "age": 28,
+  "address": {
+    "street": "Paces Junction",
+    "city": "Higekaz",
+    "state": "TX",
+    "zip": "08726"
+  },
+  "contact": {
+    "phone": "(580) 934-8725",
+    "servicePhone": "800696324"
+  },
+  "birthday": "1978-10-24T01:45:10.620Z",
+  "ip": "197.148.109.40",
+  "foo": "bar",
+  "profile": {
+    "about": "Nulwaco nir nihe natvuf jit hadsiwmu pesruhvik zolmac zuv fog fu bicbeaj. Menbatwam lu powevi piw nek mikoji pofice vibeb nagejuw ecekitej lecfowfu ticsoevo furjivof liranfa di we ajmof makzi. Bu garapomu zasden suliv litak ufmengu ca feimun zi nodeneka magig zus menitu gejocbe va ojapeki gu kova.",
+    "bio": "Caczit teme jojweha vu koccol jurij uzosoj jowluwer lahamog cetwuj jelomce okuri eduej mak zivog nazjout. Ij is warartu du bahirkew mit jeziwkob fom gefin nawedgoc bak gic esiolak dekimse. Johjuh ali temagvo piuduhar le milop roturu ku sapev sigdaz ucabib genron akafuz taldilla nasulum. Fiavemih mulebpi haghasne uv cugnof erel hi bakcebel lukteci ved riviriv ligheduja ro ker fipez bun mu humcu."
+  },
+  "apiKey": "e00e6ab907357aa2866c975df02dcb69e361cdbd4460a8a6e8108542d08f0414",
+  "currency": {
+    "code": "LBP",
+    "name": "Lebanon Pound"
+  }
+}
