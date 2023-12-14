@@ -1,0 +1,26 @@
+{
+  "name": "Jean Cunningham",
+  "age": 49,
+  "address": {
+    "street": "Umuteh Trail",
+    "city": "Ammufeb",
+    "state": "MT",
+    "zip": "28329"
+  },
+  "contact": {
+    "phone": "(575) 778-6890",
+    "servicePhone": "800344454"
+  },
+  "birthday": "1981-09-01T18:31:44.224Z",
+  "ip": "50.245.222.204",
+  "foo": "bar",
+  "profile": {
+    "about": "Pejo nigvoka zejvo bifufehag va ekni ala itsug pekpo sa bulaki ujujeda. Uwto sugdomul zu hoijdef galug dukpu tihi fog guzuboj mohedub if ihopow hut enva sulsawej. Zaffap cobzuw fes ona duc lacroj ivuoda lalmoj to moz peag wi pevidbeb ufe.",
+    "bio": "Vedotibat neviki zosuzev vuhipoj da rec vi da korapzof gapocis jasameb opi lat ahwo egva. Sec wimeoc la zevcip opuahunu tahgapgew umolahceb gida filirej kajaecu pewbuz zedum guwicsig jegik fuv tuiledi devejzer. Gapa duzezguc liflaki ji ufaolu tu dipzuoge unozi wu dewumasu losesaowu bi emuma. Mukso ricnezeg mebav ow ape teinabib su si iflota ju is jod. Daki jek ja tufro fefi jutu mo zevbe gen gapitad ju to po kihol. Pa rormeasa tizih ab hu da olibioto tarik he ner daacuit ule mofin kag zutafuk. Jo fojat ji zimer vavfo mipadi wuvub sitokek epe geb ow obhe akivigof fasinug."
+  },
+  "apiKey": "ae0f6d17791e39854e609cbbffea0523e10f8e81bdcf3dc99ae8aedfe958a700",
+  "currency": {
+    "code": "AFN",
+    "name": "Afghanistan Afghani"
+  }
+}
