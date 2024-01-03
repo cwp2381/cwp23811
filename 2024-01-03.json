@@ -1,0 +1,26 @@
+{
+  "name": "Steven Weber",
+  "age": 57,
+  "address": {
+    "street": "Nedval Way",
+    "city": "Edeushu",
+    "state": "NE",
+    "zip": "29302"
+  },
+  "contact": {
+    "phone": "(717) 744-5766",
+    "servicePhone": "800393785"
+  },
+  "birthday": "1970-05-12T12:42:01.118Z",
+  "ip": "17.118.2.83",
+  "foo": "bar",
+  "profile": {
+    "about": "Casidses ewbo ikufikuj netbi vodma ulu jeaksel pehif burifrig dotgobrat uw fakilki osupep hofzuwuf ihajuv cernajfa. Unerehpan camkah uv zenache ika agkofuja uclo caglono remep kuha fazbe lahoj hotvosre onafusraw otva ahojeb. Nozu zibtofu zive joc fo nebi cibippoz ahawedore muftovdos kojerzud kimgolus usope nabanu raleru obivijber daka.",
+    "bio": "Zublop isu rotem ko liw cab ra wib ge hev letopil fikir sa puw ci set. Za zev eb lotitre apaktu zej kisu vunihik pisewa ni zonubeoko dacpuvta sujih. Gen egedomo hatturow cotilco cec gikvasah zegiku mifabur eric tawe nibpibise caoszij. Owwulcu vik bo tacuva dittihe visruj ib mu eb tiguje sop pa infem ziczauhe tuv kokladoj."
+  },
+  "apiKey": "af66f636ae325d7f83c9892dcbb3422d4720089511a499f807e9e4df05d4c80e",
+  "currency": {
+    "code": "SRD",
+    "name": "Suriname Dollar"
+  }
+}
