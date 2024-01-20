@@ -1,0 +1,26 @@
+{
+  "name": "Jeanette Brewer",
+  "age": 64,
+  "address": {
+    "street": "Zeva Way",
+    "city": "Bazosmen",
+    "state": "MT",
+    "zip": "37377"
+  },
+  "contact": {
+    "phone": "(730) 258-9477",
+    "servicePhone": "800368923"
+  },
+  "birthday": "1995-10-06T18:56:38.717Z",
+  "ip": "239.183.103.155",
+  "foo": "bar",
+  "profile": {
+    "about": "Cefveenu sune ba av tu egokajwuw ipzanev da lehov ziwokem okaluv epu len genup duhpogki. Uj jefe ku egi piplimvog guti jig hewlusij wasudi befigowu nadtef umduhtov ojcec. Unisodip dezweb jon uvde zol sowpipaje co tabvit vorook aweju ho huv.",
+    "bio": "Soacik cuhe leb benezul po ivipergo dalmaub husut hig jujo vowudsem falosgu femu. Volguzce cizduiz tu polet risnuup ka pisfan ri vaimi lekeru sacseme pijmak kibope. Fuza ugpur ceg nimozofa onolihu awo notlease umawudli bortafoh cuddarwe umgubev hec re zuvethi mehajef idta guja muldes. Vav hi funek egoudi puf hetemmaj bunpeupu nemo imhokem nid agka ave."
+  },
+  "apiKey": "eb8e9b67bd673c046924020235c660470c1323f58ec371be8058594d94bffba6",
+  "currency": {
+    "code": "BTN",
+    "name": "Bhutan Ngultrum"
+  }
+}
