@@ -1,0 +1,26 @@
+{
+  "name": "Eliza Shaw",
+  "age": 21,
+  "address": {
+    "street": "Fosva Point",
+    "city": "Joumma",
+    "state": "NY",
+    "zip": "40185"
+  },
+  "contact": {
+    "phone": "(219) 626-6707",
+    "servicePhone": "800429651"
+  },
+  "birthday": "1987-11-14T15:08:00.326Z",
+  "ip": "76.98.37.70",
+  "foo": "bar",
+  "profile": {
+    "about": "Nodeino iwimel nejat kuj be lilwisraj kohaizu ocotazgo mut sugor bohed zewced debasim goopmut vo vuw kibrij. Zawfu sibwo patuhtic sugik mor fema tuz ke nehozom uwuvufik wozhug deg urbumo ur. Aggi evu ilu ikauh rozdicbe lit zi zatwahde bokbo dut repuksum kim firtihom toc jik. Cazkipca leogeilu babus bos ekeosven nu sadfefuh la ar enapek ah laonipe diglecto.",
+    "bio": "Datru hafado unbo gunvilpom bekofsu baj mucjoz ducol koimu veg wein azepat ifapci taw jilojo udilize. Jusisduk vopalo tebeg si bejpi vabfuwume pavhemumi zuzcesar vu osreto vapkowkuj kulik oz rov avo rus. Ulifita afga cebnuswid duvzo wufero apsu birnorwu bucef ma vueze lialecun loohe tuanoof no hitjaace odopogon. Recmig wubliz pe wafuke nocrukzar serpur jagogi se omi ampila zebtu tibi egpep samural. Efwe wortef bukehol ehzol ah copnedcar ritevet huaksef sozho hupu juciba dic koah atweig or ejuheho bap ezamov."
+  },
+  "apiKey": "cbd852fcb04c1a550f5d0412f125ddf473d0fcbaa5fcf0f291958f1e33459f4f",
+  "currency": {
+    "code": "SHP",
+    "name": "Saint Helena Pound"
+  }
+}
