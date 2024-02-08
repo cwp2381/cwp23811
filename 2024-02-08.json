@@ -1,0 +1,26 @@
+{
+  "name": "Samuel Wong",
+  "age": 48,
+  "address": {
+    "street": "Heov Drive",
+    "city": "Mekusoegi",
+    "state": "WY",
+    "zip": "15754"
+  },
+  "contact": {
+    "phone": "(506) 699-4505",
+    "servicePhone": "800837766"
+  },
+  "birthday": "1963-11-01T10:46:31.426Z",
+  "ip": "129.26.210.68",
+  "foo": "bar",
+  "profile": {
+    "about": "Pelciure vo zaadioba zokbipo hainauzo ravhunej redluk cajwif rauzice bi ektaf otilam. Be legib hewceda ragdof tijitze leteed raivume map igewufpel vofomur lasa kentu alco uciedi suw ce ez gu. Simsajgi wapvizoh gaw ni vutbiv cigom afumu ahtiw ovabege mavdefok lihjetiz zu ot vedofoj nokdu vuhvu se.",
+    "bio": "Uca hupmik ihwuphis hartas guilli nehi niwzep dic mu kuazawe lisruca toigeomu suv. Dozufi rap fesnutju wamhalbun elasakid cozmifje bu zintoh hew lejlibweb ficenca va hiz ke finawob cejzedok aso. Sojow bet cesmas guk jezgegfor tadkiz urgi wovliwsog rer roso sepoz kade fehno ri vanuwku tihgo kofo."
+  },
+  "apiKey": "1e47be1b0b084a073cbb450fe087e18d09e88d3f54fc824e97a921ec1429fb59",
+  "currency": {
+    "code": "SBD",
+    "name": "Solomon Islands Dollar"
+  }
+}
