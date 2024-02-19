@@ -1,0 +1,26 @@
+{
+  "name": "Sean Wilkerson",
+  "age": 45,
+  "address": {
+    "street": "Puwo Extension",
+    "city": "Nujavo",
+    "state": "ND",
+    "zip": "03632"
+  },
+  "contact": {
+    "phone": "(382) 363-2957",
+    "servicePhone": "800575587"
+  },
+  "birthday": "1961-08-27T16:35:46.908Z",
+  "ip": "246.157.3.128",
+  "foo": "bar",
+  "profile": {
+    "about": "Cujelul jaribig muvifi ru ekbere pi oj mocewak hi kulum ilro danup ej ajumi bur cehcengi. Bariv vid dactodla ar cagtucuv rufijte biz owso jo zeben nacimun orire je aguniha lu zikowad. Ki cubaw odulifuwi juvud eso suvbecad ho ci retibe fapu elifut ud pu cerfan orka vi sulbaloba. Jug ram voacet rajo liwmu usni duv fa mulid fogeaza hicnitgog gew im. Ciur wivoppo ujare laj ilhiin cam geturur pudi re fuzaz puut ti.",
+    "bio": "Ebrive or gavos opariga ama jep rus kibjuas gawmo on tinioz wokucob. Jozbikwe wi rop le hegzosha gol mejocpik fadmuh hes jecreme dicu tidullo dalfo peni at lo. Mo gehe fope iwazi nifpi soput hasi lidem gekmomtol worov norama po lozo. Wog zedim hopcuone gi muc tip kotin nap vedzoj jud tivurag fi su uvarosbot. Cit kofuj huhucne wole otogab fijjawhu vulboble corgovin laso dokoed bocunipof umabih wevoaj nek pum ogaebe."
+  },
+  "apiKey": "46d24e834b86f0e1ed290578f06c79d50a3530d9665c90455ce98ea3ddc13f66",
+  "currency": {
+    "code": "GHS",
+    "name": "Ghana Cedi"
+  }
+}
