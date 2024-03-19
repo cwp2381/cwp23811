@@ -1,0 +1,26 @@
+{
+  "name": "Herbert Schwartz",
+  "age": 30,
+  "address": {
+    "street": "Zoggef Boulevard",
+    "city": "Ukwivik",
+    "state": "GA",
+    "zip": "78289"
+  },
+  "contact": {
+    "phone": "(204) 302-9093",
+    "servicePhone": "800496274"
+  },
+  "birthday": "1981-03-09T06:35:23.115Z",
+  "ip": "192.21.90.225",
+  "foo": "bar",
+  "profile": {
+    "about": "Izi izho ve ta jitudbat vudansoz newongab tefod tejmemiz ruolje du regdo ahbeaha le valar. Dufzam voukeuc olvawres eno aba fit to uju zagug su ojuhawe osaju seojpim koztu ot virubokok jel. Fa asasejfog kazuwibu mepba suafu ijozekte kibowunum nuhadma ma tubu usak ijkugnib jok ulsizi gasagoki gepowo.",
+    "bio": "Nuwjijkat ahumo ziwge genildu fo ki osa ef coj wuececi tuitukic uza jizebo da goggu aka goh. Nagazvu lolje pid oru ibe bineruc timlat poz ajizum puk akinen zewi bokole anejifuh pu ojwiiso pi en. Ete nisalo valhad ifopiwane duime sa wubelac dib te oj ofiwme mo izuhohdos goljicus oleca ked orca. Venhepdu lav faziga udmag su nutenuwup jobawca il sogkil ufu cueg cakaco kusbofire nep nosur ol."
+  },
+  "apiKey": "7e8c60b6e0e04486743cbadf60e306dbf3fe173a5f9b3307f6b05c980fb6ddfe",
+  "currency": {
+    "code": "ZAR",
+    "name": "South Africa Rand"
+  }
+}
