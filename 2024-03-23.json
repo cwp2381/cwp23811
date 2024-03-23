@@ -1,0 +1,26 @@
+{
+  "name": "Kate Murray",
+  "age": 19,
+  "address": {
+    "street": "Uhveh Parkway",
+    "city": "Rirnoahe",
+    "state": "DE",
+    "zip": "29943"
+  },
+  "contact": {
+    "phone": "(955) 413-6757",
+    "servicePhone": "800838742"
+  },
+  "birthday": "2004-12-15T16:50:17.801Z",
+  "ip": "134.191.180.69",
+  "foo": "bar",
+  "profile": {
+    "about": "Adwob ni fodkatak val ani wodoji ufmobo jivkapeh ra nen hakfe haozvob vildin. Divnu wegjum nug ijafeh noovu aro din ruhu losozgom oz esigi je. Ep iv akasa cuzeco filzi nomu okeku za utefami hoteibi rohneor otuabcoc koscenlod vojhi vekilu.",
+    "bio": "Canuv ceca vicpulo nor rozara ohigi ehojome lehof arluuk bal zopokuz ejdeiku uvzaeke atecinnaz vi oz lijac. Lejne ra vi pur ire edisonu cit tofdug ve focaghe poz pipet zamow igojilu. Uwolev vegfagsaj jajijto hum piwge har ca wa hooj wed melvumif neb or bofe uc cahuaba lipetwe. Zijim holub azaunata lo ehcipwa fehpekbu zav ozakiku loveg oseognup ha niwvuuzu fas suw."
+  },
+  "apiKey": "9a4e4e378b0b6dfcebd537976262d95810de3aaf3b13ead609883fe74d0ae98d",
+  "currency": {
+    "code": "VEF",
+    "name": "Venezuela Bolivar"
+  }
+}
