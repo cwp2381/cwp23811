@@ -1,0 +1,26 @@
+{
+  "name": "Brent Reynolds",
+  "age": 39,
+  "address": {
+    "street": "Wevoc Heights",
+    "city": "Curvigera",
+    "state": "LA",
+    "zip": "16494"
+  },
+  "contact": {
+    "phone": "(260) 611-8755",
+    "servicePhone": "800663865"
+  },
+  "birthday": "2004-02-11T07:20:09.857Z",
+  "ip": "50.83.203.234",
+  "foo": "bar",
+  "profile": {
+    "about": "Ete sib cawi jib noavido ehu buete rewcukgod pabaju uc viohele liz kupig siwu kusu. Tonoj tep porok relek ludlir izu wuk sanofuag faewu kegdu bujgi kazve jug. Lu dosha mejhebo sehejmem heguhfi bobeg vumjiz nosjigeh bob vo enrelet vasdek ivi ese. Jes hona vu per waki suk dez honid cijlalan teheko kocrub takuta si gecijbo rirok fuwocetu toligol. Bidpa agegima ovmazsib gefu peku tabelo huvpo ulfaj zoc oljo bo suzzob civha eh nige kok dimfe caw. Sof vokhasfa gogdiifa toaj bembow node farka zo vamnivo pavet loobhi bob vuvkalvoz uloselhul sigekce. Naeboduc selmasas fu tahepciz cocifezi va lehtada bage luliwew ejijem varer wageige ro.",
+    "bio": "Fowil bac so cedra ip ohbuvtum uwbuj ulmo ti tedri in dof. Zir jer kevjeod elide cewa gesev new vubeb le oj lig er hegekrog iw setuw sas. Dubvowbaz custatke avje nul bo ka ujkuz muture fuudauwe uchip nuehi lepbi zo."
+  },
+  "apiKey": "6432aac26f8cf321420c64642fd50a21b5ad3cea8af0f5210a608c206292b665",
+  "currency": {
+    "code": "YER",
+    "name": "Yemen Rial"
+  }
+}
