@@ -1,0 +1,26 @@
+{
+  "name": "Peter Farmer",
+  "age": 27,
+  "address": {
+    "street": "Buze Square",
+    "city": "Sitemci",
+    "state": "NM",
+    "zip": "18472"
+  },
+  "contact": {
+    "phone": "(501) 562-3690",
+    "servicePhone": "800493161"
+  },
+  "birthday": "1969-02-11T08:44:17.887Z",
+  "ip": "33.154.220.26",
+  "foo": "bar",
+  "profile": {
+    "about": "Vur gaj luwurvof du neg mutkub rikhi femce eweno ze da obtehnu. We ufi fipogsa tepuko jaloswi sopne etdi ideoho ecena sewlunap ha setgoano mean. Nab zumtajoj sit zairijo tabuz er saffeeha momjab fabiz epe aze jar muersi. Ke acete onuzemva jiwizaj to ra wiles ucomo patennef samdomac gusinzej bukiheli awvubsu muasha hif bis.",
+    "bio": "Moir za rezpacod hijpumod virropruk rozte cej akuc luppel lah sekfug vejenaf. Kum etowuz er sorverduh newe gudijuc vat fowlih ozo tigwe rimirha ipi aj dustij cores aswedsa lukva lus. Umtu tamko zaajba hooj sug je mowte ik hev kuecuta rah fehmopa tikaic apoko ugaal."
+  },
+  "apiKey": "a4b4b204f40db1b22758d39c6266ed2f69780499ff95d15156e2eb07c83ba478",
+  "currency": {
+    "code": "IMP",
+    "name": "Isle of Man Pound"
+  }
+}
